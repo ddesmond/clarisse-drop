@@ -1,0 +1,4 @@
+pymongo==3.7.2
+clipboard==0.0.4
+cryptography==2.4.2
+GitPython==2.1.11
