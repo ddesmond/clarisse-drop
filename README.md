@@ -18,3 +18,6 @@ What this tool is not?
 Drop is not an asset managment system/manager. Drop is not FTrack or Shotgun. 
 
 Drop doesnt store any of your referenced files. Drop is not a storage platform.
+
+Supported OS:
+Mac, Win, Lin
