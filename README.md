@@ -4,7 +4,10 @@ Clarisse iFX - "preset" saver - manager with MongoDB as backend, Python 2.7, Mon
 
 What is Drop?
 
-Save any selection from Clarisse (shading networks, scatters setups, object, scenes, LPEs, almost anything) for easy reaclling in other projects.
+Save any selection from Clarisse (shading networks, scatters setups, object, scenes, LPEs, almost anything) for easy recalling in other projects. 
+Please read the wiki for more info.
+
+
 
 
 What this tool is not?
